@@ -10,3 +10,7 @@ h6 {
 h1 {
   cursor: pointer;
 }
+#container{
+  border: 2px solid black;
+  font-size: x-large;
+}
