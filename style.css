@@ -10,10 +10,10 @@ h6 {
 h1 {
   cursor: pointer;
 }
-#card {
+.card {
   border: 2px solid black;
   font-size: x-large;
-  width: 50px;
-  height: 100px;
+  width: 100px;
+  height: 150px;
   border-radius: 10px;
 }
