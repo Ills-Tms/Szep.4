@@ -4,6 +4,7 @@ const h1 = document.querySelector('#hello')
 const container = document.querySelector('#container')
 h1element.addEventListener('click', () => {
   let card = document.createElement('div')
+  card.classList.add('card')
   card.innerText = Math.floor(Math.random() * 6) + 1
   container.append(card)
 })
