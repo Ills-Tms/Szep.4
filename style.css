@@ -10,7 +10,7 @@ h6 {
 h1 {
   cursor: pointer;
 }
-p {
+#card {
   border: 2px solid black;
   font-size: x-large;
   width: 50px;
